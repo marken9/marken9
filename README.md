@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm currently learning CS2113C :D
+I'm currently learning CS2113 :D
 <!--
 **marken9/marken9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
